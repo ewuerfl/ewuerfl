@@ -6,7 +6,7 @@ I'm looking for Summer 2027 internships in hardware, AI, ML, embedded, or softwa
 
 ## What I'm working on
 
-**Intern Finder** ([repo](https://github.com/ewuerfl/intern-finder))
+**Intern Finder** ([repo](https://github.com/ewuerfl/intern-finder-app))
 An internship search app and application tracker, built as an installable PWA.
 - A Python pipeline checks 1,340 employers every hour and has grown the database from 4,600 to over 15,000 listings
 - Resume matching through a Vercel serverless function calling the Gemini API, ranking jobs against a user's profile
